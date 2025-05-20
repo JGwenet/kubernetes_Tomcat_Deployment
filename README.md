@@ -1,4 +1,4 @@
-# Kubernetes Architecture for Java Applications
+# Kubernetes Architecture for a Java Application 
 
 ![Kubernetes Architecture Diagram](architecture/Kubernetes%20Architecture%20for%20Java%20App.drawio.png)
 
